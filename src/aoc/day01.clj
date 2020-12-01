@@ -13,7 +13,6 @@
        (slurp)
        (re-seq #"\d+")
        (map #(Integer/parseInt %))
-       (vec)
        (find-product-pair 2020)))
 
 (defn- find-product-trio [sum-to-find input]
@@ -29,5 +28,4 @@
        (slurp)
        (re-seq #"\d+")
        (map #(Integer/parseInt %))
-       (vec)
        (find-product-trio 2020)))
