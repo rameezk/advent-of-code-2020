@@ -1,0 +1,5 @@
+#+TITLE: advent-of-code-2020
+
+#+begin_quote
+My [[https://adventofcode.com/2020][Advent of Code - 2020]] solutions (and probably some horrible failed attempts :/)
+#+end_quote
