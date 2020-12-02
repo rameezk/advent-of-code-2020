@@ -1,5 +1,4 @@
-(ns aoc.day01
-  (:require [clojure.string :as str]))
+(ns rameezk.aoc-2020.day01)
 
 (defn- find-product-pair [sum-to-find input]
   (set
@@ -30,5 +29,5 @@
        (map #(Integer/parseInt %))
        (find-product-trio 2020)))
 
-(time (p1 "data/day01.txt"))
-(time (p2 "data/day01.txt"))
+(p1 "data/day01.txt")
+(p2 "data/day01.txt")

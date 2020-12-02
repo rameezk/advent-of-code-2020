@@ -1,4 +1,4 @@
-(ns aoc.day02
+(ns rameezk.aoc-2020.day02
   (:require [clojure.string :as str]))
 
 (def file "data/day02.txt")
