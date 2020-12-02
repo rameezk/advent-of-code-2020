@@ -4,6 +4,9 @@
 My [[https://adventofcode.com/2020][Advent of Code - 2020]] solutions (and probably some horrible failed attempts :/)
 #+end_quote
 
+* Goal
+My goal this time to not to chase leader board positions, but learn to write better, more idiomatic Clojure.
+
 * Challenges
 #+begin_quote
 Benchmarking statistics are only as a record for myself. 
