@@ -29,3 +29,6 @@
        (re-seq #"\d+")
        (map #(Integer/parseInt %))
        (find-product-trio 2020)))
+
+(time (p1 "data/day01.txt"))
+(time (p2 "data/day01.txt"))

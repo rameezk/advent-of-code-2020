@@ -3,3 +3,13 @@
 #+begin_quote
 My [[https://adventofcode.com/2020][Advent of Code - 2020]] solutions (and probably some horrible failed attempts :/)
 #+end_quote
+
+* Challenges
+#+begin_quote
+Benchmarking statistics are only as a record for myself. 
+#+end_quote
+** Day 1
+** Day 2
+*** Benchmarks
+- part 1 -> 23.869313 milliseconds
+- part 2 -> 16.623895 milliseconds
