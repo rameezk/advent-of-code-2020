@@ -5,7 +5,7 @@ My [[https://adventofcode.com/2020][Advent of Code - 2020]] solutions (and proba
 #+end_quote
 
 * Goal
-My goal this time is to not to chase leader board positions, but to learn to write better, more idiomatic Clojure.
+My goal this time is to not chase leader board positions, but to learn to write better, more idiomatic Clojure.
 
 * Challenges
 #+begin_quote
