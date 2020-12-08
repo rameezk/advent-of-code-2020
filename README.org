@@ -14,9 +14,13 @@ Benchmarking statistics are only as a record for myself.
 ** Day 1
 ** Day 2
 *** Benchmarks
-- part 1 -> 23.869313 milliseconds
-- part 2 -> 16.623895 milliseconds
+- part 1 -> 23.86 milliseconds
+- part 2 -> 16.62 milliseconds
 ** Day 6
 *** Benchmarks
-- part 1 -> 18.478462 milliseconds
-- part 2 -> 7.22625 milliseconds
+- part 1 -> 18.47 milliseconds
+- part 2 -> 7.22 milliseconds
+** Day 8
+*** Benchmarks
+- part 1 -> 4.33 milliseconds
+- part 2 -> 7.19 milliseconds
