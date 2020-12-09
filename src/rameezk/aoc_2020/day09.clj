@@ -34,8 +34,10 @@
         :else                 nil))))
 
 (time (attack 25 real-input))
-(time (attack2 (attack 25 real-input) real-input))
+;; => 90433990
 
+(time (attack2 (attack 25 real-input) real-input))
+;; => 11691646
 
 
 
